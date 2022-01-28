@@ -9,5 +9,5 @@ gcc dos_in_c.c -o dos_in_c
 
 ### how to use
 ```
-./dos_in_c ftp.host
+./dos_in_c www.dominio.com
 ```
